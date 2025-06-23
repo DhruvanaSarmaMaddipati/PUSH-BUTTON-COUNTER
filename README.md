@@ -44,4 +44,7 @@ BUtton Counter Ready
 Button Pressed. Count = 1
 Button Pressed. Count = 2....
 
+output picture:
+
+![Image](https://github.com/user-attachments/assets/17140a98-2b9b-4c38-be75-43ffdf4e1686)
 
